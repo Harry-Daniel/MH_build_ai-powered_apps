@@ -2,7 +2,7 @@ import axios from 'axios';
 import { useEffect, useRef, useState, type KeyboardEvent } from 'react';
 import ReactMarkdown from 'react-markdown';
 import { useForm } from 'react-hook-form';
-import { Button } from './ui/button';
+import { Button } from '../ui/button';
 import { FaArrowUp } from 'react-icons/fa';
 
 type FormData = {

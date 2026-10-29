@@ -5,6 +5,8 @@ A full-stack TypeScript monorepo with two AI features:
 - **Chatbot**: a customer-support assistant for "WonderWorld", a fictional theme park, powered by OpenAI (`gpt-4o-mini`) with conversation memory.
 - **Review summarizer**: generates and caches AI summaries of product reviews, using a local model through Ollama (`tinyllama`).
 
+🎥 **[Watch the demo](https://drive.google.com/file/d/1aHd_DA9qHIHqiXdsIOy0DL01YsE4E_SA/view)**
+
 ## Tech stack
 
 | Layer   | Tools                                                                      |
